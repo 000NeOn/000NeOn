@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @000NeOn
-- 👀 I’m interested in HTML
-- 🌱 I’m currently learning CSS
+- 👋 Hi, I’m Yassin
+- 👀 I’m interested in Cybersecurity & Full-Stack Development
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on MY BRAIN
 - 📫 How to reach me yassinmo104@gmail.com
 
